@@ -1,7 +1,3 @@
-print("Ola Mundo")
-
-
-
-
+name = input("Qual o seu nome?")
 
 
